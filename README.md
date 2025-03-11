@@ -1,16 +1,17 @@
-## Hi there 👋
+¡Hola! Soy Dorian Flores 👋
+💻 Estudiante de Desarrollo de Aplicaciones Web en el IES Martínez Montañés, con interés en el desarrollo de software y aplicaciones web escalables.
 
-<!--
-**Dorian-Projects/Dorian-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tecnologías en las que tengo experiencia:
 
-Here are some ideas to get you started:
+Lenguajes: Java, C#, SQL y C++
+Frameworks: Laravel, Angular
+Bases de datos: MySQL, SQL Server, Oracle
+Frontend: HTML, CSS, Bootstrap
+Control de versiones: Git, GitHub
+🔍 En busca de oportunidades para seguir aprendiendo y creciendo en el mundo del desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacto:
+
+LinkedIn: https://www.linkedin.com/in/dorian-miguel-flores-bonilla-665283230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Correo: florebonilladorianmiguel@gmail.com
+¡Siempre abierto a colaborar en proyectos interesantes! 🚀

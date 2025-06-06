@@ -1,20 +1,39 @@
-¡Hola! Soy Dorian Flores 👋	
-💻 Estudiante de Desarrollo de Aplicaciones Web en el IES Martínez Montañés, con interés en el desarrollo de software y aplicaciones web escalables.
+# 👋 ¡Hola! Soy Dorian Flores
 
-🚀 Tecnologías en las que tengo experiencia:
+💻 Estudiante de **Desarrollo de Aplicaciones Web** en el **IES Martínez Montañés**, apasionado por la creación de software funcional, eficiente y escalable. Me interesa especialmente el desarrollo de aplicaciones web modernas y bien estructuradas.
 
-Lenguajes: Java, C#, SQL y C++
-Frameworks: Laravel, Angular
-Bases de datos: MySQL, SQL Server, Oracle
-Frontend: HTML, CSS, Bootstrap
-Control de versiones: Git, GitHub
-🔍 En busca de oportunidades para seguir aprendiendo y creciendo en el mundo del desarrollo.
+---
 
-📫 Contacto:
+## 🚀 Tecnologías con las que trabajo:
 
-LinkedIn: https://www.linkedin.com/in/dorian-miguel-flores-bonilla-665283230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+**Lenguajes de programación:**  
+Java · C# · C++ · Python · JavaScript · SQL
 
+**Frameworks y librerías:**  
+Laravel · Angular · Frappe
 
+**Bases de datos:**  
+MySQL · MariaDB · SQL Server · Oracle
 
-Correo: florebonilladorianmiguel@gmail.com
-¡Siempre abierto a colaborar en proyectos interesantes! 🚀
+**Frontend:**  
+HTML · CSS · Bootstrap
+
+**Control de versiones:**  
+Git · GitHub
+
+---
+
+## 🎯 En búsqueda constante de oportunidades
+
+Estoy abierto a colaborar en proyectos interesantes que me permitan seguir aprendiendo y creciendo como desarrollador.
+
+---
+
+## 📫 Contacto
+
+- **LinkedIn:** [Dorian Miguel Flores Bonilla](https://www.linkedin.com/in/dorian-miguel-flores-bonilla-665283230)  
+- **Correo:** florebonilladorianmiguel@gmail.com
+
+---
+
+🚀 *¡Gracias por visitar mi perfil!*

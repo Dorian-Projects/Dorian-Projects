@@ -7,13 +7,13 @@
 ##  Tecnologías con las que trabajo:
 
 **Lenguajes de programación:**  
-Java · C# · C++ · Python · JavaScript · SQL
+Java · C# · C++ · Python · JavaScript ·  PHP
 
 **Frameworks y librerías:**  
 Laravel · Angular · Frappe
 
 **Bases de datos:**  
-MySQL · MariaDB · SQL Server · Oracle
+MySQL · MariaDB · SQL Server · Oracle · PL/SQL
 
 **Frontend:**  
 HTML · CSS · Bootstrap
